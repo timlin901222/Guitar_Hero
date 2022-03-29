@@ -1,4 +1,4 @@
-# data_structures
+# Guitar Hero
 
 ## Overview
 Implemented the double-ended queue data structures using arrays and linked-lists in Java. 
